@@ -11,6 +11,10 @@
 
 ###
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dhruv-Rankoti&label=Profile%20views&color=0e75b6&style=flat" alt="Dhruv-Rankoti" /> </p>
+
+###
+
 - 🌱 I’m currently learning Expressjs
 - 👯 I’m looking to collaborate on MERN stack projects
 - 💬 Ask me about my projects
