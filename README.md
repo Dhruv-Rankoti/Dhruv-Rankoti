@@ -81,12 +81,15 @@
   <a href="https://www.geeksforgeeks.org/user/dhruvra9o0t/" target="_blank">
     <img src="img/GeeksforGeeks.svg" width="52" height="40" alt="geekforgeeks logo"  />
   </a>
-  <a href="" target="_blank">
+  <a href="https://www.hackerrank.com/profile/dhruvrankoti" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
   </a>
-  <a href="" target="_blank">
+  <a href="https://codeforces.com/profile/shadow-sama" target="_blank">
+    <img src="img/codeforces-logo.png" width="52" height="40" alt="codeforces logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
+  <a href="https://stackoverflow.com/users/29841632/dhruv-rankoti" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
+  </a>
 </div>
 
 ###
