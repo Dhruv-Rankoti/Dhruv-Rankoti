@@ -15,7 +15,7 @@
 
 ###
 
-- 🌱 I’m currently learning Expressjs
+- 🌱 I’m currently learning NEXTjs
 - 👯 I’m looking to collaborate on MERN stack projects
 - 💬 Ask me about my projects
 - 📫 How to reach me: [dhruvrankoti@gmail.com](mailto:dhruvrankoti@gmail.com)
