@@ -1,9 +1,9 @@
 
-<h2 align="center">Hi 👋! I'm Dhruv Rankoti</h2>
+<h2 align="center">Hi ! I'm Dhruv Rankoti</h2>
 
 ###
 
-<p align="center">A passionate developer</p>
+<p align="center">AI Systems • Backend • Problem Solving</p>
 
 ###
 
@@ -15,8 +15,10 @@
 
 ###
 
-- 🌱 I’m currently learning NEXTjs
-- 👯 I’m looking to collaborate on MERN stack projects
+- 🧠 I’m currently learning System Design  
+- 🤖 Build AI-powered systems (LLMs, RAG, NLP) with real-world use cases  
+- 🧩 Strong foundation in Data Structures & Algorithms
+- ⚙️ Focused on backend systems, APIs, and scalable architectures
 - 💬 Ask me about my projects
 - 📫 How to reach me: [dhruvrankoti@gmail.com](mailto:dhruvrankoti@gmail.com)
 
@@ -52,6 +54,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="30" alt="next.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" height="30" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" height="30" alt="pytorch logo"  />
+  
 </div>
 
 ###
@@ -61,7 +72,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/dhruv-rankoti-a33233291/" target="_blank">
+  <a href="https://www.linkedin.com/in/dhruvrankoti" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/rookie.programmer07/" target="_blank">
@@ -107,8 +118,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dhruv-Rankoti&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
+<p align="center">
+  <i>Building systems that work - not just projects that run.</i>
+</p>
