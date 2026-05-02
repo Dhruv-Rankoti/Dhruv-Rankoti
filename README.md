@@ -1,5 +1,7 @@
 
-<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi! I'm Dhruv Rankoti;&center=true&color=06B6D4&size=24"></h2>
+<h1 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&width=435&lines=Hi!+I'm+Dhruv+Rankoti" alt="Hi ! I'm Dhruv Rankoti" /></a>
+</h1>
 
 ###
 
