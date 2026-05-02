@@ -1,5 +1,5 @@
 
-<h2 align="center">Hi ! I'm Dhruv Rankoti</h2>
+<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi! I'm Dhruv Rankoti;&center=true&color=06B6D4&size=24"></h2>
 
 ###
 
