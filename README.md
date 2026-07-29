@@ -1,9 +1,9 @@
 
 <div align="center">
 
-<img src="img/ascii.svg" width="460" alt="Dhruv Rankoti"/>
+<img src="img/ascii.svg" width="460" alt="Dhruv Rankoti" style="pointer-events:none; cursor:default;"/>
 
-<img src="img/stats.svg" width="620" alt="Contributions in the last year"/>
+<img src="img/stats.svg" width="620" alt="Contributions in the last year" style="pointer-events:none; cursor:default;"/>
 
 [dhruvrankoti.me](https://dhruvrankoti.me) &nbsp;·&nbsp;
 [X](https://x.com/DhruvRankoti) &nbsp;·&nbsp;
@@ -12,23 +12,23 @@
 
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dhruv-Rankoti&label=Profile%20views&color=0e75b6&style=flat" alt="Dhruv-Rankoti" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dhruv-Rankoti&label=Profile%20views&color=0e75b6&style=flat" alt="Dhruv-Rankoti" style="pointer-events:none; cursor:default;" /> </p>
 
 ###
 
-<img src="img/hd-about.svg" width="620" alt="about"/>
+<img src="img/hd-about.svg" width="620" alt="about" style="pointer-events:none; cursor:default;"/>
 
-> CS student at Guru Gobind Singh Indraprastha University.<br>
+> CS student at Guru Gobind Singh Indraprastha University, India.<br>
 > I'm currently learning system design.
 
 I build production-focused AI systems and scalable backends. I prefer small, testable
 components that ship and learn from real users.
 
-<img src="img/hd-stack.svg" width="620" alt="stack"/>
+<img src="img/hd-stack.svg" width="620" alt="stack" style="pointer-events:none; cursor:default;"/>
 
 <samp>python &nbsp; c++ &nbsp; javascript &nbsp; node &nbsp; pytorch &nbsp; fastapi &nbsp; postgres &nbsp; docker &nbsp; git &nbsp; linux</samp>
 
-<img src="img/hd-projects.svg" width="620" alt="projects"/>
+<img src="img/hd-projects.svg" width="620" alt="projects" style="pointer-events:none; cursor:default;"/>
 
 **[SachAI - AI Hallucination Detection](https://github.com/dhruvrankoti/SachAI-Hallucination)** &nbsp;·&nbsp; <samp>python, FastAPI, HuggingFace</samp><br>
 RAG pipeline with hallucination detection middleware.
@@ -42,19 +42,19 @@ Serverless RAG voicebot cross-language retrieval, real-time TTS, and scalable in
 **[Crush Proposal Website](https://github.com/dhruvrankoti/crush-proposal)** &nbsp;·&nbsp; <samp>Vercel, AI agent</samp><br>
 Personalized proposal site generated with an AI agent and deployed to Vercel. (Success rate: 99.99%)
 
-<img src="img/hd-stats.svg" width="620" alt="stats"/>
+<img src="img/hd-stats.svg" width="620" alt="stats" style="pointer-events:none; cursor:default;"/>
 
 <div align="center">
 
-<img src="img/streak.svg" width="620" alt="Current and longest streak"/>
+<img src="img/streak.svg" width="620" alt="Current and longest streak" style="pointer-events:none; cursor:default;"/>
 
-<img src="img/langs.svg" width="620" alt="Top languages by bytes and by repo"/>
+<img src="img/langs.svg" width="620" alt="Top languages by bytes and by repo" style="pointer-events:none; cursor:default;"/>
 
-<img src="img/year.svg" width="620" alt="The last year, one character per day"/>
+<img src="img/year.svg" width="620" alt="The last year, one character per day" style="pointer-events:none; cursor:default;"/>
 
 </div>
 
-<img src="img/hd-about-this-page.svg" width="620" alt="about this page"/>
+<img src="img/hd-about-this-page.svg" width="620" alt="about this page" style="pointer-events:none; cursor:default;"/>
 
 Every graphic here is generated, not embedded from anyone else's server.<br>
 `ascii.svg` is a photo pushed through a character ramp by<br>
