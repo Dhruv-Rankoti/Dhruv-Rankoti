@@ -1,125 +1,76 @@
 
-<h1 align="center">
-  <img src="img/ascii.svg" width="860" alt="ascii portrait"/>
-</h1>
+<div align="center">
 
-###
+<img src="img/ascii.svg" width="460" alt="Dhruv Rankoti"/>
 
-<p align="center">AI Systems • Backend • Problem Solving</p>
+<img src="img/stats.svg" width="620" alt="Contributions in the last year"/>
 
-###
+[dhruvrankoti.me](https://dhruvrankoti.me) &nbsp;·&nbsp;
+[X](https://x.com/DhruvRankoti) &nbsp;·&nbsp;
+[linkedin](https://www.linkedin.com/in/dhruvrankoti) &nbsp;·&nbsp;
+[email](mailto:dhruvrankoti@gmail.com)
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/97913909?s=400&u=ebb212f2acb835910e347a722e67ee9bf82181e6&v=4"  />
-
-###
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dhruv-Rankoti&label=Profile%20views&color=0e75b6&style=flat" alt="Dhruv-Rankoti" /> </p>
 
 ###
 
-- 🧠 I’m currently learning System Design  
-- 🤖 Build AI-powered systems (LLMs, RAG, NLP) with real-world use cases  
-- 🧩 Strong foundation in Data Structures & Algorithms
-- ⚙️ Focused on backend systems, APIs, and scalable architectures
-- 💬 Ask me about my projects
-- 📫 How to reach me: [dhruvrankoti@gmail.com](mailto:dhruvrankoti@gmail.com)
+<img src="img/hd-about.svg" width="620" alt="about"/>
 
-###
+> CS student at Guru Gobind Singh Indraprastha University.<br>
+> I'm currently learning system design.
 
-<h4 align="left">Languages & Tools:</h4>
+I build production-focused AI systems and scalable backends. I prefer small, testable
+components that ship and learn from real users.
 
-###
+<img src="img/hd-stack.svg" width="620" alt="stack"/>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="30" alt="next.js logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
-  
+<samp>python &nbsp; c++ &nbsp; javascript &nbsp; node &nbsp; pytorch &nbsp; fastapi &nbsp; postgres &nbsp; docker &nbsp; git &nbsp; linux</samp>
+
+<img src="img/hd-projects.svg" width="620" alt="projects"/>
+
+**[SachAI - AI Hallucination Detection](https://github.com/dhruvrankoti/SachAI-Hallucination)** &nbsp;·&nbsp; <samp>python, FastAPI, HuggingFace</samp><br>
+RAG pipeline with hallucination detection middleware.
+
+**[smallGPT](https://github.com/dhruvrankoti/smallGPT)** &nbsp;·&nbsp; <samp>python, PyTorch</samp><br>
+Decoder-only Transformer implemented from scratch.
+
+**[Multilingual Voicebot](https://github.com/dhruvrankoti/multilingual-voicebot-demo)** &nbsp;·&nbsp; <samp>FastAPI, embeddings, serverless</samp><br>
+Serverless RAG voicebot cross-language retrieval, real-time TTS, and scalable inference.
+
+**[Crush Proposal Website](https://github.com/dhruvrankoti/crush-proposal)** &nbsp;·&nbsp; <samp>Vercel, AI agent</samp><br>
+Personalized proposal site generated with an AI agent and deployed to Vercel. (Success rate: 99.99%)
+
+<img src="img/hd-stats.svg" width="620" alt="stats"/>
+
+<div align="center">
+
+<img src="img/streak.svg" width="620" alt="Current and longest streak"/>
+
+<img src="img/langs.svg" width="620" alt="Top languages by bytes and by repo"/>
+
+<img src="img/year.svg" width="620" alt="The last year, one character per day"/>
+
 </div>
 
-###
+<img src="img/hd-about-this-page.svg" width="620" alt="about this page"/>
 
-<h4 align="left">Connect with me:</h4>
+Every graphic here is generated, not embedded from anyone else's server.<br>
+`ascii.svg` is a photo pushed through a character ramp by<br>
+[`scripts/make_portrait.py`](scripts/make_portrait.py); the stat graphics and<br>
+these section headings are drawn by [a scheduled action](.github/workflows/stats.yml)<br>
+straight from the GitHub GraphQL API, once a day, committing only what changed.
 
-###
+They animate with SMIL inside the SVG, because GitHub strips scripts from<br>
+READMEs — and since nothing loads from a third party, nothing here can<br>
+rate-limit or go dark. The headings are SVGs for the same reason: GitHub also<br>
+strips CSS, so an image is the only way to put this page's own typeface on them.
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/dhruvrankoti" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/rookie.programmer07/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <a href="https://www.twitch.tv/dhruvrankoti" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  </a>
-  <a href="https://www.x.com/dhruvrankoti" target="_blank">
-    <img src="img/x-logo.png" height="35" alt="x logo"  />
-  </a>
-</div>
+The typeface is [JetBrains Mono](scripts/fonts), subset to just the characters<br>
+each graphic draws and inlined as base64. That isn't only for looks: the<br>
+portrait's grid assumes an advance width of exactly 0.600 em, and a viewer whose<br>
+default monospace is narrower would otherwise see it squeezed.
 
-###
-
-<div align="left">
-  <a href="https://leetcode.com/u/shadow_sama/" target="_blank">
-    <img src="img/leetcode-logo.png" width="52" height="40" alt="leetcode logo"  />
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/dhruvra9o0t/" target="_blank">
-    <img src="img/GeeksforGeeks.svg" width="52" height="40" alt="geekforgeeks logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/profile/dhruvrankoti" target="_blank">
-    <img src="img/HackerRank-logo.png" width="42" height="40" alt="hackerrank logo"  />
-  </a>
-  <a href="https://codeforces.com/profile/shadow-sama" target="_blank">
-    <img src="img/codeforces-logo.png" width="52" height="40" alt="codeforces logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/29841632/dhruv-rankoti" target="_blank">
-    <img src="img/stackoverflow-logo.svg" width="52" height="40" alt="stackoverflow logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dhruv-Rankoti/Dhruv-Rankoti/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dhruv-Rankoti/Dhruv-Rankoti/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Dhruv-Rankoti/Dhruv-Rankoti/output/github-snake.svg" />
-</picture>
-
-###
-
-<p align="center">
-  <i>Building systems that work - not just projects that run.</i>
-</p>
+Language totals cover public repositories only. `year.svg` uses the portrait's<br>
+character ramp: `:` `+` `#` `@`, quiet to loud.
