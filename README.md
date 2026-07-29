@@ -1,6 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dhruv-Rankoti&label=Profile%20views&color=0e75b6&style=flat" alt="Dhruv-Rankoti" /> </p>
-
-###
 
 <h1 align="center">
   <img src="img/ascii.svg" width="860" alt="ascii portrait"/>
@@ -16,6 +13,9 @@
 
 ###
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dhruv-Rankoti&label=Profile%20views&color=0e75b6&style=flat" alt="Dhruv-Rankoti" /> </p>
+
+###
 
 - 🧠 I’m currently learning System Design  
 - 🤖 Build AI-powered systems (LLMs, RAG, NLP) with real-world use cases  
