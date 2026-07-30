@@ -25,8 +25,8 @@ import os
 import sys
 import urllib.request
 from datetime import date, datetime, timedelta, timezone
-from dotenv import load_dotenv
-load_dotenv()
+# from dotenv import load_dotenv
+# load_dotenv()
 
 API = "https://api.github.com/graphql"
 
